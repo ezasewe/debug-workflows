@@ -4,7 +4,7 @@ on:
     push:
 env:
     USER1: "foo"
-    USER2: "fighter"
+    USER2: "bar"
 
 jobs:
     debug-job:
